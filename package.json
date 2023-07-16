@@ -1,0 +1,43 @@
+{
+  "name": "contentx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@radix-ui/react-alert-dialog": "^1.0.4",
+    "@radix-ui/react-dialog": "^1.0.4",
+    "@radix-ui/react-dropdown-menu": "^2.0.5",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-toast": "^1.1.4",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
+    "@vercel/analytics": "^1.0.1",
+    "autoprefixer": "10.4.14",
+    "class-variance-authority": "^0.6.1",
+    "clsx": "^2.0.0",
+    "cmdk": "^0.2.0",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.10",
+    "next": "13.4.10",
+    "next-themes": "^0.2.1",
+    "notion-client": "^6.16.0",
+    "notion-types": "^6.16.0",
+    "notion-utils": "^6.16.0",
+    "postcss": "8.4.26",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-notion-x": "^6.16.0",
+    "tailwind-merge": "^1.13.2",
+    "tailwindcss": "3.3.3",
+    "tailwindcss-animate": "^1.0.6",
+    "typescript": "5.1.6"
+  }
+}
